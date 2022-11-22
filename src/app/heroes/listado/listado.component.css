@@ -1,0 +1,8 @@
+.heroeBorrado{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn{
+    height: auto !important;
+}
